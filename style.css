@@ -1,0 +1,215 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar{
+    width: 95%;
+    height: auto;
+    margin-left: 30px;
+
+}
+
+.logo{
+    color: blueviolet;
+    font-size: 40px;
+    font-family: cursive;
+    float: left;
+    padding-top: .6%;
+    cursor: pointer;
+}
+.page{
+     width: 600px;
+     float: left;
+     height: 70px;
+
+}
+
+ul{
+    padding-top: 30px;
+    display: flex;
+    float: left;
+    justify-content: center;
+    margin-left: 14%;
+    align-items: center;
+
+}
+
+ul li{
+    list-style: none;
+    font-size: 16px;
+    margin-left: 60px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul li a:hover{
+    color: blue;
+
+}
+ .search{
+    float: right;
+    width: 240px;
+    background: white;
+    padding: 8px;
+    border-radius: 15px;
+    height: 30px;
+    margin-top: 1%;
+    margin-right: 2%;
+}
+
+.search .search text{
+    width: 190px;
+    padding: 0 6px;
+
+}
+
+.dresses{
+   display: flex;
+   /* color: blue; */
+   width: 500px;
+   height: 450px;
+   margin-left: 10px;
+   margin-top: -30px;
+
+
+}
+
+.TEES{
+    display: flex;
+   color: blue;
+   width: 400px;
+   height: 350px;
+   margin-left: 10px;
+   margin-top: -30px;
+
+}
+.PANTS{
+    display: flex;
+   color: blue;
+   width: 500px;
+   height: 450px;
+   margin-left: 10px;
+   margin-top: -30px;
+}
+h2{
+    color: black;
+    margin-left: 40%;
+}
+.top{
+    margin-left: 5%;
+    color: black;
+}
+#dress1{
+    display: flex;
+    /* color: blue; */
+    width: 500px;
+    height: 450px;
+    margin-left: 10px;
+    margin-top: -30px;
+    border-style: hidden;
+}
+#dress2{
+    display: flex;
+    /* color: blue; */
+    width: 500px;
+    height: 450px;
+    margin-left: 10px;
+    margin-top: -30px;
+    border-style: hidden;
+}
+#dress3{
+    display: flex;
+   /* color: blue; */
+   width: 500px;
+   height: 450px;
+   margin-left: 10px;
+   margin-top: -30px;
+   border-style: hidden;
+}
+
+#TEE1{
+    display: flex;
+    /* color: blue; */
+    width: 450px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: -30px;
+    border-style: hidden;
+}
+#TEE2{
+    display: flex;
+    /* color: blue; */
+    width: 700px;
+    height: 450px;
+    margin-left: 10px;
+    margin-top: -30px;
+    border-style: hidden;
+}
+#TEE3{
+    display: flex;
+   /* color: blue; */
+   width: 450px;
+   height: 400px;
+   margin-left: 10px;
+   margin-top: -30px;
+   border-style: hidden;
+}
+
+#PANT1{
+    display: flex;
+    /* color: blue; */
+    width: 450px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: -30px;
+    border-style: hidden;
+}
+#PANT2{
+    display: flex;
+    /* color: blue; */
+    width: 700px;
+    height: 450px;
+    margin-left: 10px;
+    margin-top: -30px;
+    border-style: hidden;
+}
+#PANT3{
+    display: flex;
+   /* color: blue; */
+   width: 500px;
+   height: 450px;
+   margin-left: 10px;
+   margin-top: -30px;
+   border-style: hidden;
+}
+
+.bottom{
+    margin-left: 40%;
+}
+#hh{
+    margin-left: 20%;
+    color: blueviolet;
+}
+.foot{
+    margin-top: -2%;
+    margin-left: 5%;
+}
+/* .background{
+    width: 100%;
+    height: 100vh;
+    background-image: url(IMAGES/BACK.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+} */
+p{
+    font-size: x-large;
+}
